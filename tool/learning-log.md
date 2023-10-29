@@ -1,13 +1,15 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Java Development Kit on InteliJ (IDE)**
 
-Project: **X**
+Project: **Simplified Commands in Minecraft**
 
 ---
 
-X/X/X:
-* Text
+10/29/23:
+* Installing IDE and Minecraft modding plugins [video]([url](https://www.youtube.com/watch?v=BRDrWYpgliY))
+* The video is slightly outdated and the GUI is a bit off, but the same buttons are there, just in different places
+* The plugins put in loads of code already for the game so I need to figure out where I start
 
 X/X/X:
 * Text
