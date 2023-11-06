@@ -11,8 +11,9 @@ Project: **Simplified Commands in Minecraft**
 * The video is slightly outdated and the GUI is a bit off, but the same buttons are there, just in different places
 * The plugins put in loads of code already for the game so I need to figure out where I start
 
-X/X/X:
-* Text
+11/5/23:
+* Remade my IDE, realized there was something wrong and used another guide (insert video later)
+* This guide will direct me on how to make specific things in Minecraft (items, textures, etc)
 
 
 <!-- 
