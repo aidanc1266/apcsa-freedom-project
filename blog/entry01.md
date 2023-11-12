@@ -1,7 +1,7 @@
 # Entry 1
 ##### 11/6/23
 
-Main Tool
+### Main Tool
 For my main project, I will be designing a Minecraft mod. Although I don't know the exact things I will add at the moment, I will definitely be adding some new custom items. To do this, the tools I will be using is  Java Development Kit 17.0.9 (JDK) by Oracle and Mod Development Kit (MDK) for Minecraft 1.20.1 by Forge.
 The reason why I chose Forge over Fabric (another modification platform for Minecraft) is because I am more familiar with Forge. Although I have not explicitly used Forge for coding, I have used various Forge mods over the past couple of years. In my IDE, I can incorporate different Forge mods into my mod which I could consider in the future. In terms of JDK, it is easiest to code Minecraft mods in Java rather than languages like Python or C++ because they will just be translated into Java.
 
