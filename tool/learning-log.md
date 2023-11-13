@@ -12,7 +12,7 @@ Project: **Simplified Commands in Minecraft**
 * The plugins put in loads of code already for the game so I need to figure out where I start
 
 11/5/23:
-* Remade my IDE, realized there was something wrong and ran into a dead end, used another guide (insert video later)
+* Remade my IDE, realized there was something wrong and ran into a dead end, used another [guide](https://www.youtube.com/watch?v=55qUIf3GMss)
 * This guide will direct me on how to make specific things in Minecraft (items, textures, etc)
 
 11/13/23
