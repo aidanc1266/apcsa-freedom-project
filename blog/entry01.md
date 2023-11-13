@@ -7,19 +7,19 @@ The reason why I chose Forge over Fabric (another modification platform for Mine
 
 I am just beginning the engineering design process. I downloaded and set up the IntelliJ IDE on my PC using this [guide](https://www.youtube.com/watch?v=55qUIf3GMss). I test-launched Minecraft via IDE and I can see my mod loaded in-game, showing I was all set up. During the setup, a lot of already printed code had to be deleted and changed.
 
-During the process, I learned more about the writing classes skill. While setting up, I noticed the class `public FreedomProject()` didn't include `static`. This means an object from the class must be declared to use the method. Example:
+During the process, I learned more about the writing classes skill using this [video](https://www.youtube.com/watch?v=-TxHjyC8WY4&t=191s). While setting up, I noticed the class `public FreedomProject()` didn't include `static`. This means an object from the class must be declared to use the method. Example:
   ```java
-  class Duck {
-  public void quacking() {
-    System.out.println("Quack Quack");
+  public class StaticDemo {
+    public static void main(String[] args) {
+        Abc.show();
     }
-  }
-  public class main {
-  public static void main(String[] args) {
-    Duck a = new Duck();
-    a.quacking();
+}
+class Abc {
+    static int i;
+    public static void show() {
+        System.out.println("HI");
     }
-  }
+}
   ```
 If `static` was used, we could have just done `Duck.quacking()` instead of creating an object.
 
