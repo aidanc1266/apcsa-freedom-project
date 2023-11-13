@@ -7,12 +7,12 @@ Project: **Simplified Commands in Minecraft**
 ---
 
 10/29/23:
-* Installing IDE and Minecraft modding plugins [video]([url](https://www.youtube.com/watch?v=BRDrWYpgliY))
+* Installing IDE and Minecraft modding plugins [video](https://www.youtube.com/watch?v=BRDrWYpgliY)
 * The video is slightly outdated and the GUI is a bit off, but the same buttons are there, just in different places
 * The plugins put in loads of code already for the game so I need to figure out where I start
 
 11/5/23:
-* Remade my IDE, realized there was something wrong and used another guide (insert video later)
+* Remade my IDE, realized there was something wrong and ran into a dead end, used another guide (insert video later)
 * This guide will direct me on how to make specific things in Minecraft (items, textures, etc)
 
 11/13/23
