@@ -15,6 +15,9 @@ Project: **Simplified Commands in Minecraft**
 * Remade my IDE, realized there was something wrong and used another guide (insert video later)
 * This guide will direct me on how to make specific things in Minecraft (items, textures, etc)
 
+11/13/23
+* Created a [Github Repo](https://github.com/aidanc1266/aidanmcmod-freedomproject) that is connected with my project on the IDE
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
