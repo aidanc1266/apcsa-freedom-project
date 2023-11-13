@@ -14,7 +14,7 @@ During the process, I learned more about the writing classes skill using this [v
         Abc.show();
     }
 }
-class Abc {
+public class Abc {
     static int i;
     public static void show() {
         System.out.println("HI");
