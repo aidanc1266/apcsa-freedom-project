@@ -21,8 +21,6 @@ class Abc {
     }
 }
   ```
-If `static` was used, we could have just done `Duck.quacking()` instead of creating an object.
-
 ### Backup Tool
 My backup is creating an iOS app that identifies what apps are slowing down the phone. The tool I will be using is Swift.
 Although I have not yet tinkered with this, I found and reviewed the beginning of this [guide](https://www.youtube.com/watch?v=CwA1VWP0Ldw) on Swift that starts from the absolute beginning. It goes over everything from how to declare variables to pushing the code onto Github.
