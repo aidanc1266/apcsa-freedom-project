@@ -18,6 +18,9 @@ Project: **Simplified Commands in Minecraft**
 11/13/23
 * Created a [Github Repo](https://github.com/aidanc1266/aidanmcmod-freedomproject) that is connected with my project on the IDE
 
+11/27/23
+* watched the [video](https://www.youtube.com/watch?v=o6Xbp2dTEGA) on how to make custom items
+* one of my friends outside of HSTAT might make the art/textures for the item, will ask Mr. Mueller if this is legal
 
 <!-- 
 * Links you used today (websites, videos, etc)
