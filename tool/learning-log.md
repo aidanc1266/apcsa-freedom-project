@@ -22,6 +22,13 @@ Project: **Simplified Commands in Minecraft**
 * watched the [video](https://www.youtube.com/watch?v=o6Xbp2dTEGA) on how to make custom items
 * one of my friends outside of HSTAT might make the art/textures for the item, will ask Mr. Mueller if this is legal
 
+12/10/23
+* Added test items to Minecraft using the [video](https://www.youtube.com/watch?v=o6Xbp2dTEGA)
+  * Created the Sapphire and Raw Sapphire items and textures in-game
+  * Created the Creative Mode Tab menu specifically for the Sapphire items
+  * Pushed everything onto the [repo](https://github.com/aidanc1266/aidanmcmod-freedomproject/tree/master/src/main)
+* Next week will be on creating custom blocks using this [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g)
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
