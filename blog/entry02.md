@@ -5,6 +5,8 @@ Text
 How you have been learning your tool (code snippets, screenshots)
 I continued using the [guide](https://www.youtube.com/watch?v=o6Xbp2dTEGA&t=3s) I found last blog. Using this guide, I tested making two items, Sapphire and Raw Sapphire.
 ![2023-12-17_00 51 04](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/287d91d6-d34a-4681-b3c0-fff50d27e177)
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/a6910fd8-2122-4d44-9138-bf5697edbb26)
+
 
 
 FP goal for winter break
