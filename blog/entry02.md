@@ -80,9 +80,11 @@ public static final RegistryObject<CreativeModeTab> FREEDOM_TAB = CREATIVE_MODE_
 ```
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/6367be5d-6d32-4577-8936-5238d05ad8f2)
 
+
 **Skills**
 
 I improved my collaboration skills during this time. While asking one of my friends to help me make the textures for future items/blocks, some of my other friends asked if they can join in on the project. Essentially, they would make their own things in the mod and we can compile it all together and make it connect somehow. Will ask Mr. Mueller if this is allowed.
+
 
 **Freedom Project Goals for Winter Break**
 
