@@ -1,8 +1,6 @@
 # Entry 2
 ##### 12/11/23
 
-Text
-How you have been learning your tool (code snippets, screenshots)
 I continued using the [guide](https://www.youtube.com/watch?v=o6Xbp2dTEGA&t=3s) I found last blog. I made a few test items while watching the guide. Now, I will be making my own custom items.
 
 To create these items, I had to traverse through various files. 
