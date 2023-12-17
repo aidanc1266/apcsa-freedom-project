@@ -81,9 +81,11 @@ public static final RegistryObject<CreativeModeTab> FREEDOM_TAB = CREATIVE_MODE_
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/6367be5d-6d32-4577-8936-5238d05ad8f2)
 
 **Skills**
+
 I improved my collaboration skills during this time. While asking one of my friends to help me make the textures for future items/blocks, some of my other friends asked if they can join in on the project. Essentially, they would make their own things in the mod and we can compile it all together and make it connect somehow. Will ask Mr. Mueller if this is allowed.
 
 **Freedom Project Goals for Winter Break**
+
 Right now in the engineering process, I'm in the brainstorming step, coming up with items and blocks that I should add to the mod. My friend agreed to make the textures for the mod using the Dept. of Education provided Adobe Creative Cloud. I would like to make the `Block of Sapphire` item to make a full circle with `sapphire` and `Raw Sapphire` using the next episode in the [guide](https://www.youtube.com/watch?v=C_VO6tD6Y1g).
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/d6c87891-6f9d-4f8f-b938-c1212c495cc3)
 
