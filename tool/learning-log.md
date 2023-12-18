@@ -29,6 +29,12 @@ Project: **Simplified Commands in Minecraft**
   * Pushed everything onto the [repo](https://github.com/aidanc1266/aidanmcmod-freedomproject/tree/master/src/main)
 * Next week will be on creating custom blocks using this [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g)
 
+12/17/23
+* Watched the [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g) on how to create the block in-game
+* Gathered the jpeg of the `Raw Sapphire Block` and `Sapphire Block`
+![raw_sapphire_block](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/8aa6a4a7-9bf4-46f7-8595-2c1eccdb3b2f) ![sapphire_block](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/68b965ba-640d-4105-9d48-391ee0cfa55a)
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
