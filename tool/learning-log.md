@@ -41,6 +41,9 @@ Project: **Simplified Commands in Minecraft**
  * Ruby ![ruby](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/151f5673-3522-429b-866b-31f052161a8a)
  * Pearl ![pearl harbor](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/e8240326-5ace-48cd-ac96-649e43bf7d45)
 
+1/7/24
+* Watched [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g) on how to implement block texture
+
 
 
 <!-- 
