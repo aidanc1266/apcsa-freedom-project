@@ -44,7 +44,8 @@ Project: **Simplified Commands in Minecraft**
 1/7/24
 * Watched [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g) on how to implement block texture
 
-
+1/22 (morning) for week 1/14-1/21
+- Created art for block of ruby
 
 <!-- 
 * Links you used today (websites, videos, etc)
