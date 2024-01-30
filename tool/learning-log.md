@@ -44,8 +44,8 @@ Project: **Simplified Commands in Minecraft**
 1/7/24
 * Watched [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g) on how to implement block texture
 
-1/21
-- Created art for block of ruby
+1/29
+- Added Ruby and Pearl to the FreedomProject tab in creative inventory
 
 <!-- 
 * Links you used today (websites, videos, etc)
