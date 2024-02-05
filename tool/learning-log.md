@@ -47,6 +47,9 @@ Project: **Simplified Commands in Minecraft**
 1/29
 - Added Ruby and Pearl to the FreedomProject tab in creative inventory
 
+1/4
+- in the process of creating block of ruby
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
