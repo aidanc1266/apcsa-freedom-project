@@ -3,14 +3,22 @@
 
 Text
 What happened
-Added two new items using this [guide](https://www.youtube.com/watch?v=o6Xbp2dTEGA):
+A lot of things happened over the past couple months. First, I added a few new items
 - Ruby
-- Pearl
-_add images later_
-The reason for adding these new materials is to make some sort of infused armor/tools to make them stronger and more durable.
+  ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/3ff96fcb-e932-445a-b325-c3698a721e46)
+  ![2024-02-10_01 34 43](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/95a90f9b-7f1a-44a1-875d-114ee3cc2003)
 
-The Block of Sapphire and Block of Raw Sapphire was also added with the assistance of this [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g)
-_add images later_
+- Pearl
+  ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c898e908-72b2-4711-abde-e2ceed221bba)
+  ![2024-02-10_01 34 06](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/402a3ad4-7e1e-4ff9-a213-95ae4f1c80ef)
+
+- Block of Sapphire
+- Block of Raw Sapphire
+
+The reason for adding these new materials is to make some infused armor/tools stronger and more durable.
+To create these items, I used the same method described in [Blog 2](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md).
+However, blocks are implemented differently. Here is what I did to create the `Block of Sapphire` and `Block of Raw Sapphire`. I learned how to do this using this [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g).
+
 
 what's next
 Add the Block of Ruby and Pearl.
