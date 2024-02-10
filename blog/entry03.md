@@ -5,10 +5,12 @@ Text
 What happened
 A lot of things happened over the past couple months. First, I added a few new items
 - Ruby
+  
   ![2024-02-10_01 34 43](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/95a90f9b-7f1a-44a1-875d-114ee3cc2003)
   ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/3ff96fcb-e932-445a-b325-c3698a721e46)
 
 - Pearl
+  
   ![2024-02-10_01 34 06](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/402a3ad4-7e1e-4ff9-a213-95ae4f1c80ef)
   ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c898e908-72b2-4711-abde-e2ceed221bba)
 
