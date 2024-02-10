@@ -19,6 +19,7 @@ A lot of things happened over the past couple months. First, I added a few new i
 
 The reason for adding these new materials is to make some infused armor/tools stronger and more durable.
 To create these items, I used the same method described in [Blog 2](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md).
+
 However, blocks are implemented differently. Here is what I did to create the `Block of Sapphire` and `Block of Raw Sapphire`. I learned how to do this using this [video](https://www.youtube.com/watch?v=C_VO6tD6Y1g).
 
 
