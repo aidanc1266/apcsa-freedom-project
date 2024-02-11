@@ -177,7 +177,7 @@ By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main
 - Add custom loot tables using this [guide](https://www.youtube.com/watch?v=kSXP_GXdNGg)
   - Loot tables are chances for items to drop when breaking a block or killing a mob
 
-**EDP & Skills**
+**Engineering Design Process & Skills**
 
 At this point, I am in between the "Create" and "Test" stages in the Engineering Design Process since I am both creating new items/blocks and testing them in-game.
 
