@@ -2,6 +2,7 @@
 ##### 2/5/24
 
 **What happened over the last few months?**
+
 Continuing off of the last [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md), I added a few new items, both blocks and materials.
 I added two new material items. The methodology for creating these items can be referenced in [Blog 2](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md).
 A big thanks to my friend, [Alex Xiao](alexx4@nycstudents.net), for creating the art for these two items.
@@ -167,6 +168,7 @@ Now most importantly, the textures are uploaded for each item.
 Finally, I pushed all the new changes to the [Github repo](https://github.com/aidanc1266/aidanmcmod-freedomproject).
 
 **So, what is next?**
+
 By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry04.md), I plan to do the following:
 - Add the Block of Ruby and Pearl
 - Create new crafting recipes for all the blocks using the materials using this [tutorial](https://www.youtube.com/watch?v=NppdgWsSVec)
@@ -174,7 +176,9 @@ By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main
   - Loot tables are chances for items to drop when breaking a block or killing a mob
 
 **EDP & Skills**
+
 At this point, I am in between the "Create" and "Test" stages in the Engineering Design Process since I am both creating new items/blocks and testing them in-game.
+
 Over the past few months, I worked on my creativity and time management. For creativity, I had to come up with what would be added and how it would be useful in the mod. Essentially, these items are being added to give players more options when it comes to tools and armor. In the past, the only way I used my creativity was when I created [YouTube videos](https://www.youtube.com/aidanthenub). Being able to do this project allows me to reinitiate that creative style of thinking. In terms of time management, as I reflect on the last couple of months, I think my time management was a bit iffy. With college applications (I applied to 27 colleges) and a million supplementals, it was very difficult to balance applications with school work, leading to not much being done on the Freedom Project. However, now that college app season is over, I have been practicing balancing out my time across all my subjects.
 
 [Previous](entry02.md) | [Next](entry04.md)
