@@ -17,6 +17,7 @@ A big thanks to my friend, [Alex Xiao](alexx4@nycstudents.net), for creating the
   ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c898e908-72b2-4711-abde-e2ceed221bba)
 
 I also added two new blocks to the game using this [guide](https://www.youtube.com/watch?v=C_VO6tD6Y1g). The process of creating blocks is slightly more complex than the item method.
+
 Note: This only adds the block into the game. Breaking (in survival mode) and the blocks' drops must be added with additional code.
 
 First, I had to `register` the `ModBlocks` class in the `FreedomProject` class
@@ -43,6 +44,7 @@ public class FreedomProject {
 ```
 
 Next, I created the `ModBlocks` class, where I registered all the mod's blocks. Including `copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)` in both blocks uses the shape of a `Block of Iron` and the breaking/placing sound of `Amethyst`, both items in Vanilla Minecraft. 
+
 Note: The `IRON_BLOCK` could have been replaced by any block in Minecraft. It is only copying the shape of a regular block in Minecraft.
 ```java
 package net.aidan.freedomproject.block;
@@ -107,7 +109,7 @@ public static final RegistryObject<CreativeModeTab> FREEDOM_TAB = CREATIVE_MODE_
 ```
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/2731f8db-e350-4116-9b38-d37af54c54ec)
 
-Then I created the `blockstates` folder. This is where I created `.json` files for each block. This tells us that the block takes on normal properties (e.g. full 1x1 block; not a half slab, stairs, etc.). For example, this is what is coded for the `Block of Sapphire`.
+Then I created the `blockstates` folder. This is where I created `.json` files for each block. This tells us that the block takes on normal properties (i.e. full 1x1 block; not a half slab, stairs, etc.). For example, this is what is coded for the `Block of Sapphire`.
 ```java
 {
   "variants": {
