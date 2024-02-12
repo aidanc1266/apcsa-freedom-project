@@ -170,6 +170,8 @@ Now most importantly, the textures are uploaded for each item.
 
 Finally, I pushed all the new changes to the [Github repo](https://github.com/aidanc1266/aidanmcmod-freedomproject).
 
+
+
 **So, what is next?**
 
 By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry04.md), I plan to do the following:
@@ -177,6 +179,8 @@ By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main
 - Create new crafting recipes for all the blocks using the materials using this [tutorial](https://www.youtube.com/watch?v=NppdgWsSVec)
 - Add custom loot tables using this [guide](https://www.youtube.com/watch?v=kSXP_GXdNGg)
   - Loot tables are chances for items to drop when breaking a block or killing a mob
+
+
 
 **Engineering Design Process & Skills**
 
