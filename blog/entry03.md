@@ -8,12 +8,13 @@ I added two new material items. The methodology for creating these items can be 
 A big thanks to my friend, [Alex Xiao](alexx4@nycstudents.net), for creating the art for these two items.
 - Ruby
   
-  ![2024-02-10_01 34 43](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/95a90f9b-7f1a-44a1-875d-114ee3cc2003)
+  ![2024-02-10_01 34 06](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/402a3ad4-7e1e-4ff9-a213-95ae4f1c80ef)
   ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/3ff96fcb-e932-445a-b325-c3698a721e46)
 
 - Pearl
+
+  ![2024-02-10_01 34 43](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/95a90f9b-7f1a-44a1-875d-114ee3cc2003)
   
-  ![2024-02-10_01 34 06](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/402a3ad4-7e1e-4ff9-a213-95ae4f1c80ef)
   ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c898e908-72b2-4711-abde-e2ceed221bba)
 
 I also added two new blocks to the game using this [guide](https://www.youtube.com/watch?v=C_VO6tD6Y1g). The process of creating blocks is slightly more complex than the item method.
