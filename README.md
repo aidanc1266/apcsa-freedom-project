@@ -2,7 +2,7 @@
 by **Aidan Cheiban**
 
 ## Context
-I am a student at [HSTAT](https://www.hstat.org/) in [AP Computer Science A](https://hstatsep.github.io/). The "Freedom Project" is a year-long project all about making anything using technology.
+I am a student at [HSTAT](https://www.hstat.org/) in [AP Computer Science A](https://apcentral.collegeboard.org/courses/ap-computer-science-a). The "Freedom Project," developed by the [Software Engineering Program](https://hstatsep.github.io/), is a year-long project all about making anything using technology.
 
 For my project, I chose to independently study **X** in order to help me make **X**.
 
