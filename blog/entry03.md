@@ -5,7 +5,7 @@
 
 Continuing off of the last [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md), I added a few new items, both blocks and materials.
 I added two new material items. The methodology for creating these items can be referenced in [Blog 2](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry02.md).
-A big thanks to my friend, [Alex Xiao](alexx4@nycstudents.net), for creating the art for these two items.
+A big thanks to my friend, Alex Xiao (alexx4@nycstudents.net), for creating the art for these two items.
 - Ruby
   
   ![2024-02-10_01 34 06](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/402a3ad4-7e1e-4ff9-a213-95ae4f1c80ef)
@@ -156,7 +156,7 @@ Then the blocks/items are given a name in the `en_us.json` file under the `lang`
 Now most importantly, the textures are uploaded for each item.
 - Ruby ![ruby](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/03770705-105e-490c-b28c-9de089e501c4)
 - Pearl ![pearl harbor](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/e5fb557b-b3c2-4f44-aa0c-1c7d857900f3)
-  - Once again, a big shout out to my friend, [Alex Xiao](alexx4@nycstudents.net), for creating the art for these two items.
+  - Once again, a big shout out to my friend, Alex Xiao (alexx4@nycstudents.net), for creating the art for these two items
 - Block of Sapphire ![raw_sapphire_block](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c35d9a2c-b520-4219-9e7a-24d8c9d48d18)
   ![2024-02-11_00 29 38](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/1a8ae470-f2a8-47fa-8c9a-4a66bdc5abd1)
   ![2024-02-11_00 31 39](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/285333cd-4b49-4567-ae8a-b11c5564e6c3)
