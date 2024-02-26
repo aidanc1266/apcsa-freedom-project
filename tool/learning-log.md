@@ -50,6 +50,10 @@ Project: **Simplified Commands in Minecraft**
 1/4
 - in the process of creating block of ruby
 
+2/28
+- Create Block of Ruby and Block of Sapphire
+- Create crafting recipies for all the blocks using this [guide](https://youtube.com/watch?v=NppdgWsSVec)
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
