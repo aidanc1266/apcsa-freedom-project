@@ -54,6 +54,10 @@ Project: **Simplified Commands in Minecraft**
 - Create Block of Ruby and Block of Sapphire
 - Create crafting recipies for all the blocks using this [guide](https://youtube.com/watch?v=NppdgWsSVec)
 
+3/9
+- Create Block of Pearl
+- No more items will be added (except tools, armor, and weapons)
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
