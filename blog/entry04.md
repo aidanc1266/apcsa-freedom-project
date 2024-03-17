@@ -2,6 +2,7 @@
 ##### 3/16/2024
 
 **Implementing `Block of Ruby` and `Ruby Ore`**
+
 This process was similar to adding the `Block of Sapphire/Raw Sapphire` which can be found in the [previous blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry03.md).
 - Started off with registering the blocks
     ```java
@@ -42,6 +43,7 @@ This process was similar to adding the `Block of Sapphire/Raw Sapphire` which ca
 ![2024-03-16_16 15 15](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/7c03c9fe-0260-457d-a3ff-77b312756612)
 
 **Adding Crafting Recipies for Blocks**
+
 I used this [guide](https://www.youtube.com/watch?v=NppdgWsSVec) to add crafting recipes for all the blocks added in the game.
 
 
