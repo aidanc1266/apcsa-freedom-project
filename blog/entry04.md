@@ -49,75 +49,93 @@ First, I had to create multiple directories ending in the recipes folder. Here I
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/17c03783-aff1-4863-aa1f-20932ebab045)
 
 Below is the code from the `sapphire_from_sapphire_block.json` file. This recipe is shapeless, meaning there is no definite pattern.
-    ```java
+```java
+{
+  "type": "minecraft:crafting_shapeless",         //block can be placed anywhere in the 2x2 or 3x3 crafting grid to proceed
+  "catagory": "misc",
+  "ingredients": [
     {
-      "type": "minecraft:crafting_shapeless",         //block can be placed anywhere in the 2x2 or 3x3 crafting grid to proceed
-      "catagory": "misc",
-      "ingredients": [
-        {
-          "item": "freedomproject:sapphire_block"     //sapphire block needed
-        }
-      ],
-      "result": {
-        "item": "freedomproject:sapphire",            //gives 9 sapphire as a result
-        "count": 9
-      }
+      "item": "freedomproject:sapphire_block"     //sapphire block needed
     }
-    ```
+  ],
+  "result": {
+    "item": "freedomproject:sapphire",            //gives 9 sapphire as a result
+    "count": 9
+  }
+}
+```
+
+From `Block of Sapphire` to `Sapphire`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/93fc0d29-74ca-4891-9d10-9995513f2705)
+
+From `Block of Raw Sapphire` to `Raw Sapphire`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/e8799f54-bb54-4d99-953c-7e86dee55dcf)
+
+From `Block of Ruby` to `Ruby`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/9be32fd9-f9fc-46f2-a9c9-bf521bc61b37)
 
 This is an example of a shaped recipe from the `sapphire_block_from_sapphire.json` file.
-    ```java
-    {
-      "type": "minecraft:crafting_shaped",        //marked as shaped
-      "catagory": "misc",
-      "pattern": [
-        "###",                                    //this mini array marks the 3x3 crafting array
-        "###",
-        "###"
-      ],
-      "key": {
-        "#": {
-          "item": "freedomproject:sapphire"       //key symbolizes each # as a sapphire item
-        }
-      },
-      "result": {
-        "item": "freedomproject:sapphire_block"   //returns sapphire block
-      }
+```java
+{
+  "type": "minecraft:crafting_shaped",        //marked as shaped
+  "catagory": "misc",
+  "pattern": [
+    "###",                                    //this mini array marks the 3x3 crafting array
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "freedomproject:sapphire"       //key symbolizes each # as a sapphire item
     }
-    ```
+  },
+  "result": {
+    "item": "freedomproject:sapphire_block"   //returns sapphire block
+  }
+}
+```
+
+From `Sapphire` to `Block of Sapphire`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/dd2a39ad-0634-4318-b3ff-39f7b97cd6df)
+
+From `Raw Sapphire` to `Block of Raw Sapphire`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/23485e1a-6688-49e9-b5d3-dbd600a60313)
+
+From `Ruby` to `Block of Ruby`
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c9fff2d4-aaa0-49fa-8a25-9f68700de16e)
 
 **Smelting Items Using a Furnace**
 
 In this section, I created smelting recipes to go from `Raw Sapphire` to `Sapphire` and `Ruby Ore` to `Ruby`.
 Below is a snippet of code from `sapphire_from_blasting_raw_sapphire.json` file. This allows the mod to convert `Raw Sapphire` into `Sapphire` using a `Blast Furnace`.
-    ```java
-    {
-      "type": "minecraft:blasting",            //type of furnace (blast)
-      "category": "misc",
-      "cookingtime": 100,                      //time to smelt, regular furnace is 200 but since this is blast it is 100
-      "experience": 0.7,                       //experience points gained after smelting
-      "group": "sapphire",
-      "ingredient": {
-        "item": "freedomproject:raw_sapphire"  //input: Raw Sapphire
-      },
-      "result": "freedomproject:sapphire"      //result: sapphire
-    }
-    ```
+```java
+{
+  "type": "minecraft:blasting",            //type of furnace (blast)
+  "category": "misc",
+  "cookingtime": 100,                      //time to smelt, regular furnace is 200 but since this is blast it is 100
+  "experience": 0.7,                       //experience points gained after smelting
+  "group": "sapphire",
+  "ingredient": {
+    "item": "freedomproject:raw_sapphire"  //input: Raw Sapphire
+  },
+  "result": "freedomproject:sapphire"      //result: sapphire
+}
+```
 
 Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
-    ```java
-    {
-      "type": "minecraft:smelting",        //type of furnace (regular)
-      "category": "misc",
-      "cookingtime": 200,                  //regular smelt time
-      "experience": 0.7,
-      "group": "ruby",
-      "ingredient": {
-        "item": "freedomproject:ruby_ore"  //input: Ruby Ore
-      },
-      "result": "freedomproject:ruby"      //output: ruby
-    }
-    ```
+```java
+{
+  "type": "minecraft:smelting",        //type of furnace (regular)
+  "category": "misc",
+  "cookingtime": 200,                  //regular smelt time
+  "experience": 0.7,
+  "group": "ruby",
+  "ingredient": {
+    "item": "freedomproject:ruby_ore"  //input: Ruby Ore
+  },
+  "result": "freedomproject:ruby"      //output: ruby
+}
+```
 
 
 [Previous](entry03.md) | [Next](entry05.md)
