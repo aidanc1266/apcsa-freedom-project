@@ -45,6 +45,79 @@ This process was similar to adding the `Block of Sapphire/Raw Sapphire` which ca
 **Adding Crafting Recipies for Blocks**
 
 I used this [guide](https://www.youtube.com/watch?v=NppdgWsSVec) to add crafting recipes for all the blocks added in the game.
+First, I had to create multiple directories ending in the recipes folder. Here I made the `.json` files for each crafting recipe. These `.json` files can be named anything.
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/17c03783-aff1-4863-aa1f-20932ebab045)
+
+Below is the code from the `sapphire_from_sapphire_block.json` file. This recipe is shapeless, meaning there is no definite pattern.
+    ```java
+    {
+      "type": "minecraft:crafting_shapeless",         //block can be placed anywhere in the 2x2 or 3x3 crafting grid to proceed
+      "catagory": "misc",
+      "ingredients": [
+        {
+          "item": "freedomproject:sapphire_block"     //sapphire block needed
+        }
+      ],
+      "result": {
+        "item": "freedomproject:sapphire",            //gives 9 sapphire as a result
+        "count": 9
+      }
+    }
+    ```
+
+This is an example of a shaped recipe from the `sapphire_block_from_sapphire.json` file.
+    ```java
+    {
+      "type": "minecraft:crafting_shaped",        //marked as shaped
+      "catagory": "misc",
+      "pattern": [
+        "###",                                    //this mini array marks the 3x3 crafting array
+        "###",
+        "###"
+      ],
+      "key": {
+        "#": {
+          "item": "freedomproject:sapphire"       //key symbolizes each # as a sapphire item
+        }
+      },
+      "result": {
+        "item": "freedomproject:sapphire_block"   //returns sapphire block
+      }
+    }
+    ```
+
+**Smelting Items Using a Furnace**
+
+In this section, I created smelting recipes to go from `Raw Sapphire` to `Sapphire` and `Ruby Ore` to `Ruby`.
+Below is a snippet of code from `sapphire_from_blasting_raw_sapphire.json` file. This allows the mod to convert `Raw Sapphire` into `Sapphire` using a `Blast Furnace`.
+    ```java
+    {
+      "type": "minecraft:blasting",            //type of furnace (blast)
+      "category": "misc",
+      "cookingtime": 100,                      //time to smelt, regular furnace is 200 but since this is blast it is 100
+      "experience": 0.7,                       //experience points gained after smelting
+      "group": "sapphire",
+      "ingredient": {
+        "item": "freedomproject:raw_sapphire"  //input: Raw Sapphire
+      },
+      "result": "freedomproject:sapphire"      //result: sapphire
+    }
+    ```
+
+Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
+    ```java
+    {
+      "type": "minecraft:smelting",        //type of furnace (regular)
+      "category": "misc",
+      "cookingtime": 200,                  //regular smelt time
+      "experience": 0.7,
+      "group": "ruby",
+      "ingredient": {
+        "item": "freedomproject:ruby_ore"  //input: Ruby Ore
+      },
+      "result": "freedomproject:ruby"      //output: ruby
+    }
+    ```
 
 
 [Previous](entry03.md) | [Next](entry05.md)
