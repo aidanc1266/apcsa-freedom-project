@@ -133,6 +133,7 @@ Below is a snippet of code from `sapphire_from_blasting_raw_sapphire.json` file.
 ```
 
 **Example: Going from `Raw Sapphire` to `Sapphire`**
+
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/66cb92e9-c1dd-4fd2-ab70-ec90217e598b)
 
 Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
@@ -151,6 +152,7 @@ Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
 ```
 
 **Example: Going from `Ruby Ore` to `Ruby` in a regular Furnace**
+
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/d1e71e82-b547-4b1a-bc2b-c9f81febe008)
 
 Finally, I pushed all changes to the [Github Repo](https://github.com/aidanc1266/aidanmcmod-freedomproject).
