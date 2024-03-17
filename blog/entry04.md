@@ -132,6 +132,9 @@ Below is a snippet of code from `sapphire_from_blasting_raw_sapphire.json` file.
 }
 ```
 
+**Example: Going from `Raw Sapphire` to `Sapphire`**
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/66cb92e9-c1dd-4fd2-ab70-ec90217e598b)
+
 Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
 ```java
 {
@@ -147,6 +150,21 @@ Example with the regular furnace from `ruby_from_smelting_ruby_ore.json` file.
 }
 ```
 
+**Example: Going from `Ruby Ore` to `Ruby` in a regular Furnace**
+![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/d1e71e82-b547-4b1a-bc2b-c9f81febe008)
+
+Finally, I pushed all changes to the [Github Repo](https://github.com/aidanc1266/aidanmcmod-freedomproject).
+
+So, what is next?
+
+By the next [blog](https://github.com/aidanc1266/apcsa-freedom-project/blob/main/blog/entry05.md), I plan to do the following:
+- Add drops to all blocks using this [tutorial](https://www.youtube.com/watch?v=kSXP_GXdNGg&t=7s)
+- Implement an Ore Finder Item using this [tutorial](https://www.youtube.com/watch?v=TPfNvwfgXAU)
+
+At this point, I am in between the "Create" and "Test" stages in the Engineering Design Process since I am both creating new items/blocks and testing them in-game.
+
+Over the past few months, I worked on my collaboration and time management. For collaboration, I worked with one of my friends Alex Xiao, who gave me the models/textures for the Ruby, Ruby Ore, and Pearl items. Being able to offload a little bit of the workload allowed me to hone in on other aspects of the Freedom Projects, such as implementation,
+In terms of time management, as I reflect on the last couple of months, I think my time management was a bit iffy. With 50 exams on the same day, it was very difficult to balance my classwork demands with the Freedom Project. Finding time to work on the Freedom Project is still lsomething I am working on.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
