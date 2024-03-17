@@ -69,9 +69,11 @@ From `Block of Sapphire` to `Sapphire`
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/93fc0d29-74ca-4891-9d10-9995513f2705)
 
+
 From `Block of Raw Sapphire` to `Raw Sapphire`
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/e8799f54-bb54-4d99-953c-7e86dee55dcf)
+
 
 From `Block of Ruby` to `Ruby`
 
@@ -102,9 +104,11 @@ From `Sapphire` to `Block of Sapphire`
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/dd2a39ad-0634-4318-b3ff-39f7b97cd6df)
 
+
 From `Raw Sapphire` to `Block of Raw Sapphire`
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/23485e1a-6688-49e9-b5d3-dbd600a60313)
+
 
 From `Ruby` to `Block of Ruby`
 
