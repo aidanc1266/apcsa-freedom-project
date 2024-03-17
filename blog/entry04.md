@@ -65,17 +65,17 @@ Below is the code from the `sapphire_from_sapphire_block.json` file. This recipe
 }
 ```
 
-From `Block of Sapphire` to `Sapphire`
+**From `Block of Sapphire` to `Sapphire`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/93fc0d29-74ca-4891-9d10-9995513f2705)
 
 
-From `Block of Raw Sapphire` to `Raw Sapphire`
+**From `Block of Raw Sapphire` to `Raw Sapphire`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/e8799f54-bb54-4d99-953c-7e86dee55dcf)
 
 
-From `Block of Ruby` to `Ruby`
+**From `Block of Ruby` to `Ruby`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/9be32fd9-f9fc-46f2-a9c9-bf521bc61b37)
 
@@ -100,17 +100,17 @@ This is an example of a shaped recipe from the `sapphire_block_from_sapphire.jso
 }
 ```
 
-From `Sapphire` to `Block of Sapphire`
+**From `Sapphire` to `Block of Sapphire`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/dd2a39ad-0634-4318-b3ff-39f7b97cd6df)
 
 
-From `Raw Sapphire` to `Block of Raw Sapphire`
+**From `Raw Sapphire` to `Block of Raw Sapphire`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/23485e1a-6688-49e9-b5d3-dbd600a60313)
 
 
-From `Ruby` to `Block of Ruby`
+**From `Ruby` to `Block of Ruby`**
 
 ![image](https://github.com/aidanc1266/apcsa-freedom-project/assets/145048443/c9fff2d4-aaa0-49fa-8a25-9f68700de16e)
 
