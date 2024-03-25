@@ -58,6 +58,10 @@ Project: **Simplified Commands in Minecraft**
 - Create Block of Pearl
 - No more items will be added (except tools, armor, and weapons)
 
+3/24
+- Began implementing Ore Finder item using this [guide](https://www.youtube.com/watch?v=TPfNvwfgXAU&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=6)
+- Will begin working on custom advanced items next week
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
