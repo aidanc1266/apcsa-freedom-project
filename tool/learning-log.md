@@ -62,6 +62,9 @@ Project: **Simplified Commands in Minecraft**
 - Began implementing Ore Finder item using this [guide](https://www.youtube.com/watch?v=TPfNvwfgXAU&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=6)
 - Will begin working on custom advanced items next week
 
+4/1
+- Fully implemented Ore Finder item
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
