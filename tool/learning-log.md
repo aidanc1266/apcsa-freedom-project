@@ -65,6 +65,9 @@ Project: **Simplified Commands in Minecraft**
 4/1
 - Fully implemented Ore Finder item
 
+4/7
+- Created drop table for Block of Sapphire
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
