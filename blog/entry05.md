@@ -2,15 +2,9 @@
 ##### 5/9/24
 Delayed in prepreation for the AP Chem exam.
 
-3/24
-Began implementing Ore Finder item using this guide
-Will begin working on custom advanced items next week
+Implemented `Metal Detector` item.
+This special item will detect the highest y-level ore when right clicked on a given x coordinate.
 
-4/1
-Fully implemented Ore Finder item
-
-4/7
-Created drop table for Block of Sapphire
 
 Text
 
