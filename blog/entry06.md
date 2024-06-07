@@ -16,6 +16,7 @@ The project also helped me develop my collaboration and time management skills
 - In terms of time management, as I reflect on the last couple of months, I think my time management was a bit iffy. With college applications in the Fall (I applied to 20+) to studying for AP exams, time for the Freedom Project was hard to figure out. To combat this, I started to set aside ~1 hour every Sunday to work on the project and update my learning log (if needed). 
 
 **Engineering Design Process (EDP)**
+
 Currently, I am on the Improve and Coordinate stade of the EDP.
 - Improve: I have identified some bugs in the mod. Specifically, the block-breaking mechanics on the added blocks.
 - Coordinate: I presented my project to the class and at the expo. Additionally, the project is communicated via the blogs in this folder. 
