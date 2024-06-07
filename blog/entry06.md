@@ -13,6 +13,7 @@ Creating my first "official" project for my Minecraft mod throughout AP Computer
 
 
 **Skills**
+
 The project also helped me develop my collaboration and time management skills
 - For collaboration, I worked with one of my friends Alex Xiao, who gave me the models/textures for the Ruby, Ruby Ore, and Pearl items. Being able to offload a little bit of the workload allowed me to hone in on other aspects of the Freedom Projects, such as implementation. 
 - In terms of time management, as I reflect on the last couple of months, I think my time management was a bit iffy. With college applications in the Fall (I applied to 20+) to studying for AP exams, time for the Freedom Project was hard to figure out. To combat this, I started to set aside ~1 hour every Sunday to work on the project and update my learning log (if needed). 
